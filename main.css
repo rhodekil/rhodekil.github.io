@@ -4,3 +4,28 @@ html, body {
 	text-align: center;
 	font-family: Courier;
 }
+
+
+.stupid{
+
+	width: 50%;
+	padding-top:15px;
+	padding-bottom:15px;
+	margin-top:5px;
+	margin-bottom:5px;
+	border: 2px solid #aaa;
+	margin-left:25%;
+}
+
+.i{
+	width:90%;
+	margin-left:5%;
+	margin-top:2px;
+	margin-bottom:4px;
+}
+
+.t{
+	font-style: italic;
+	margin-top: 2px;
+	margin-bottom:2px;
+}
